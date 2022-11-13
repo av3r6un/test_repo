@@ -11,7 +11,7 @@ def check_updates():
 
 @app.route('/')
 def index():
-    return '<h1 style="color:purple">Hello, World!</h1>'
+    return '<h1 style="color:red;">Hello, World!</h1>'
 
 
 if __name__ == '__main__':
