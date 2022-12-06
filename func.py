@@ -1,6 +1,6 @@
 from colorama import Fore
 
-TEXT = Fore.BLUE + 'Hello, World!' + Fore.RESET 
+TEXT = Fore.BLUE + 'Hello, DEV World!' + Fore.RESET 
 
 if __name__ == '__main__':
     print(Fore.RED + '[INFO]: Changes detected!' + Fore.RESET)
